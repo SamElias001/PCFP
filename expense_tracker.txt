@@ -1,0 +1,2 @@
+ID: 1, Description: DINNER, Amount: 10
+, Total Amount: 10
